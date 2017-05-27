@@ -1,0 +1,1 @@
+/filter add joinquit * irc_join,irc_part,irc_quit *
